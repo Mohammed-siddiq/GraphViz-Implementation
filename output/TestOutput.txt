@@ -1,0 +1,103 @@
+a. prasad sistla	130
+a. prasad sistla,isabel f. cruz	2
+a. prasad sistla,lenore d. zuck	7
+a. prasad sistla,ouri wolfson	22
+a. prasad sistla,robert h. sloan	1
+a. prasad sistla,v. n. venkatakrishnan	8
+ajay d. kshemkalyani	113
+ajay d. kshemkalyani,ugo buy	1
+anastasios sidiropoulos	101
+anastasios sidiropoulos,bhaskar dasgupta	1
+andrew e. johnson	102
+andrew e. johnson,barbara di eugenio	2
+andrew e. johnson,luc renambot	26
+andrew e. johnson,tanya y. bergerwolf	1
+balajee vamanan	15
+barbara di eugenio	116
+barbara di eugenio,bing liu	1
+barbara di eugenio,brian d. ziebart	1
+barbara di eugenio,isabel f. cruz	2
+barbara di eugenio,luc renambot	1
+barbara di eugenio,ouri wolfson	2
+barbara di eugenio,peter c. nelson	3
+bhaskar dasgupta	142
+bhaskar dasgupta,nasim mobasheri	9
+bhaskar dasgupta,ouri wolfson	5
+bhaskar dasgupta,robert h. sloan	2
+bhaskar dasgupta,tanya y. bergerwolf	12
+bing liu	175
+bing liu,brian d. ziebart	1
+bing liu,philip s. yu	6
+brent stephens	14
+brian d. ziebart	58
+brian d. ziebart,chris kanich	1
+brian d. ziebart,tanya y. bergerwolf	2
+brian d. ziebart,xinhua zhang	4
+chris kanich	44
+chris kanich,jason polakis	1
+chris kanich,philip s. yu	2
+chris kanich,tanya y. bergerwolf	4
+cornelia caragea	87
+dale reed	15
+daniel j. bernstein	153
+daniel j. bernstein,jon a. solworth	2
+debaleena chattopadhyay	13
+elena zheleva	15
+emanuelle burton	8
+evan mccarty	1
+g. elisabeta marai	39
+g. elisabeta marai,robert v. kenyon	1
+georgeta elisabeta marai	1
+gonzalo a. bello	4
+ian a. kash	75
+iasonas polakis	24
+isabel f. cruz	132
+isabel f. cruz,ouri wolfson	4
+jakob eriksson	31
+jason polakis	6
+john lillis	36
+john t. bell	2
+jon a. solworth	40
+jon a. solworth,robert h. sloan	3
+joseph hummel	13
+lenore d. zuck	91
+lenore d. zuck,v. n. venkatakrishnan	5
+luc renambot	41
+mark grechanik	66
+mark grechanik,ugo buy	3
+mitchell d. theys	23
+nasim mobasheri	9
+natalie paige parde	1
+natalie parde	15
+ouri e. wolfson	1
+ouri wolfson	196
+ouri wolfson,peter c. nelson	2
+ouri wolfson,philip s. yu	4
+ouri wolfson,robert h. sloan	2
+ouri wolfson,ugo buy	1
+patrick troy	2
+patrick troy,robert h. sloan	1
+peter c. nelson	45
+peter c. nelson,philip s. yu	1
+peter c. nelson,prasad sistla	1
+peter c. nelson,tanya y. bergerwolf	2
+philip s. yu	1241
+philip s. yu,ugo a. buy	5
+piotr j. gmytrasiewicz	76
+prasad sistla	1
+robert h. sloan	94
+robert h. sloan,tanya y. bergerwolf	1
+robert h. sloan,ugo a. buy	5
+robert v. kenyon	26
+robert v. kenyon,tanya y. bergerwolf	2
+robert v. kenyon,ugo a. buy	1
+scott j. reckinger	1
+shanon m. reckinger	1
+tanya y. bergerwolf	83
+ugo a. buy	22
+ugo buy	21
+v. n. venkatakrishnan	57
+william mansky	16
+xiaorui sun	38
+xingbo wu	12
+xinhua zhang	96
